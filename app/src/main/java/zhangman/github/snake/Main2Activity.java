@@ -3,6 +3,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
+
+
 public class Main2Activity extends AppCompatActivity implements View.OnClickListener {
 
     private SnakePanelView mSnakePanelView;
