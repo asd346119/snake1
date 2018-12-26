@@ -5,6 +5,9 @@ import android.view.View;
 
 
 
+
+
+
 public class Main2Activity extends AppCompatActivity implements View.OnClickListener {
 
     private SnakePanelView mSnakePanelView;
